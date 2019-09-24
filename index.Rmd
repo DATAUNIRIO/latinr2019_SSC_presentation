@@ -148,3 +148,19 @@ background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SS
 
 ---
 background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide28.PNG)
+
+
+---
+
+
+
+## A reference 
+### his paper was inspired by this repo
+
+### fissehab/Email_text_alerting_with_Shiny
+
+url(https://github.com/fissehab/Email_text_alerting_with_Shiny)
+
+url(https://www.youtube.com/edit?o=U&video_id=0xZZC8SAxAQ)
+
+### you should look this repository too
