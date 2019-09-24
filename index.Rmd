@@ -1,0 +1,150 @@
+---
+title: "Shiny Smart City"
+subtitle: "A cidade inteligente em tempo real"  
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE}
+library(xaringanthemer)
+solarized_dark(
+  code_font_family = "Fira Code",
+  code_font_url    = "https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css"
+)
+```
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide1.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide2.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide3.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide4.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide5.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide6.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide7.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide8.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide9.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide10.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide11.PNG)
+
+
+---
+background-size: contain
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide12.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide13.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide14.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide15.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide16.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide17.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide18.PNG)
+
+
+---
+background-size: contain
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/smarteagle2.gif)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide20.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide21.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide22.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide23.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide24.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide25.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide26.PNG)
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide27.PNG)
+
+
+---
+background-image: url(https://raw.githubusercontent.com/DATAUNIRIO/latinr2019_SSC_presentation/master/Smart%20Eagle/Slide28.PNG)
